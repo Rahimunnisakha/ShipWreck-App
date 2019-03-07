@@ -8,12 +8,6 @@
 	<version>1.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<parent>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.4.2.RELEASE</version>
-	</parent>
-
 	<name>shipwreck-app</name>
 	<url>http://maven.apache.org</url>
 
